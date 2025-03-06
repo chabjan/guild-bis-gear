@@ -1,0 +1,9 @@
+## Interface: 11506
+## Title: Guild BIS Gear
+## Notes: Hunt those BIS with your mates.
+## Author: lulwfrost
+## Version: 1.0.0
+## SavedVariables: BaseFrameSettings
+
+GuildBisGear.lua
+GBGFrame.lua
