@@ -69,8 +69,6 @@ end)
 -- Picker Tab: List of Items (Custom Components)
 -------------------------------------------------
 
-items = { "Sword", "Shield", "Potion", "Armor" }
-
 -- (Make sure you have the SendItemSelection function defined as below)
 local function SendItemSelection(item)
     -- For example, sending via PARTY for debugging; change as needed
